@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I am Ahmad Ibrahim</h1>
+<h1 align="center">Hi there, Ahmad Ibrahim here ! </h1>
 <h3 align="center">A student at FAST-NUCES...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadibrahimi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadibrahimi" /> </p>
