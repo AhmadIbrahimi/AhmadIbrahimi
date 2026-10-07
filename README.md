@@ -1,11 +1,3 @@
-<!-- ============================================================
-  HOW TO USE:
-  1. On GitHub, create a PUBLIC repo named exactly: AhmadIbrahimi
-  2. Tick "Add a README file"
-  3. Replace its contents with this file
-  4. Search for "EDIT" below and fill in the placeholders
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,100:00ff9c&text=ELYSION&fontColor=00ff9c&fontSize=80&fontAlignY=38&desc=Ahmad%20Ibrahim%20%7C%20Software%20Engineering%20%40%20FAST-NUCES&descSize=18&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%" alt="Elysion banner"/>
@@ -16,7 +8,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=AhmadIbrahimi&color=00fe9c&style=flat-square&label=VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=AhmadIbrahimi&color=00ffe9c&style=flat-square&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/AhmadIbrahimi?style=flat-square&color=00ff9c&labelColor=0d1117)
 ![Repos](https://img.shields.io/badge/public%20repos-5-00ff9c?style=flat-square&labelColor=0d1117)
 
