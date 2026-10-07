@@ -20,7 +20,7 @@ I'm a Software Engineering student focused on learning C/C++, problem solving, a
 
 **Languages**
 
-`C` `C++` `Python` `HTML` `CSS`
+`C` `C++` `HTML` `CSS`
 
 **Tools**
 
