@@ -55,3 +55,7 @@ Problem Solving █████████████░░░░░
 OOP             ██████████░░░░░░░░
 Data Structures ███████░░░░░░░░░░░
 Software Design ██████░░░░░░░░░░░░
+
+[LinkedIn](https://www.linkedin.com/in/ahmad-ibrahim-360a7a28b/)
+
+[GitHub](https://github.com/AhmadIbrahimi)
