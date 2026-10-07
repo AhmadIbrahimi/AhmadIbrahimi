@@ -48,12 +48,12 @@ elysion@fast-nuces:~$ _
 
 ## `$ ./featured_projects`
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| 🐍 **[Snaku](https://github.com/AhmadIbrahimi/Snaku)** | EDIT: one-line description of your game | EDIT |
-| 🛡️ **[ai-sentinel](https://github.com/AhmadIbrahimi/ai-sentinel)** | EDIT: one-line description | EDIT |
-| 🧠 **[C-codes](https://github.com/AhmadIbrahimi/C-codes)** | My C fundamentals: programs, exercises and experiments | C |
-| 🌐 **[Ahmad-portfolio](https://github.com/AhmadIbrahimi/Ahmad-portfolio)** | Personal portfolio site | EDIT |
+| Project | What it is |
+|:--|:--|
+| 🐍 **[Snaku](https://github.com/AhmadIbrahimi/Snaku)** | game: vibe coded game made through google studio |
+| 🛡️ **[ai-sentinel](https://github.com/AhmadIbrahimi/ai-sentinel)** | ai detector: this is an ai detector app |
+| 🧠 **[C-codes](https://github.com/AhmadIbrahimi/C-codes)** | My C fundamentals: programs, exercises and experiments |
+| 🌐 **[Ahmad-portfolio](https://github.com/AhmadIbrahimi/Ahmad-portfolio)** | Personal portfolio site | 
 
 ---
 
