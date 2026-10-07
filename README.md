@@ -96,10 +96,10 @@ elysion@fast-nuces:~$ _
 
 <br/><br/>
 
-```text
-> "First, solve the problem. Then, write the code."
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff9c,100:000000&section=footer" width="100%" alt="footer"/>
+
+```text
+> "They call us dreamers... yet we are the ones who don't sleep..."
+```
 
 </div>
