@@ -99,7 +99,7 @@ elysion@fast-nuces:~$ _
 <div align="center">
 
 <a href="https://github.com/AhmadIbrahimi"><img src="https://img.shields.io/badge/GitHub-AhmadIbrahimi-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/EDIT-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/ahmad-ibrahim-360a7a28b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
 <a href="mailto:EDIT@your-email.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 
 <br/><br/>
