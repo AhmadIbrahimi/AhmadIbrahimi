@@ -90,9 +90,10 @@ elysion@fast-nuces:~$ _
 
 <div align="center">
 
-<a href="https://github.com/AhmadIbrahimi"><img src="https://img.shields.io/badge/GitHub-AhmadIbrahimi-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/></a>
-<a href="www.linkedin.com/in/ahmad-ibrahim-360a7a28b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
-<a href="mailto:m.ahmad.ibrahim008@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
+[![Portfolio](https://img.shields.io/badge/%20ayyzenn.github.io%20-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00D9FF)](https://ayyzenn.github.io)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn%20-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ahmad-ibrahim-360a7a28b/)&nbsp;
+[![Email](https://img.shields.io/badge/%20Email%20-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:m.ahmad.ibrahim008@gmail.com)
+
 
 <br/><br/>
 
