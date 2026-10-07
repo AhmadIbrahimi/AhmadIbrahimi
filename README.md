@@ -50,7 +50,7 @@ A collection of C programming exercises and problem-solving practice.
 ## `> current_focus`
 
 ```text
-C/C++          ███████████████░░░
+C/C++           ███████████████░░░
 Problem Solving █████████████░░░░░
 OOP             ██████████░░░░░░░░
 Data Structures ███████░░░░░░░░░░░
