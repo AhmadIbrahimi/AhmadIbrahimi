@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=AhmadIbrahimi&color=00ffe9c&style=flat-square&label=VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=AhmadIbrahimi&color=00fe0c&style=flat-square&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/AhmadIbrahimi?style=flat-square&color=00ff9c&labelColor=0d1117)
 ![Repos](https://img.shields.io/badge/public%20repos-5-00ff9c?style=flat-square&labelColor=0d1117)
 
